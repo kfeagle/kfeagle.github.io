@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "9J87B48WLP.com.LazadaSEA.Lazada",
+                "paths": [ "/scss/*", "/test2/*"]
+            }
+        ]
+    }
+}
